@@ -1,6 +1,4 @@
 # Godot 4+ specific ignores
 .godot/
 /android/
-/dodge_the_creep.console.exe
-/dodge_the_creep.exe
 /dodge_the_creep.x86_64
